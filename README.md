@@ -1,27 +1,27 @@
 # Bike-Sharing-Demand-Prediction
 
-Seoul Bike Sharing Demand Prediction AlmaBetter Verfied Project seoul
+**Seoul Bike Sharing Demand Prediction**.
 
-📋 Problem Statement
+<h2>📋 Problem Statement</h2>
 
 Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.
 Data Description
 
 The dataset contains weather information (Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall), the number of bikes rented per hour and date information.
 
-Data Pipeline
+**Data Pipeline**
 
-● Exploratory Data Analysis (EDA): In this part we have done some EDA on the features to see the trend.
+● **Exploratory Data Analysis (EDA)**: In this part we have done some EDA on the features to see the trend.
 
-● Data Processing: In this part we went through each attributes and encoded the categorical features.
+● **Data Processing**: In this part we went through each attributes and encoded the categorical features.
 
-● Model Creation: Finally in this part we created the various models. These various models are being analysed and we tried to study various models so as to get the best performing model for our project.
+● **Model Creation**: Finally in this part we created the various models. These various models are being analysed and we tried to study various models so as to get the best performing model for our project.
 
-💾 Project Files Description
+<h2>💾 Project Files Description</h2>
 
 This Project includes 1 colab notebook and 1 Pdf of presentation.
 
-Executable Files:
+**Executable Files**:
 
 Bike Sharing Demand Prediction - Includes Exploratory Data Analysis and all algorithms which are used in this project.
 
@@ -36,13 +36,14 @@ First, click on the open in colab button present on the top centre of the notebo
 
 In this .ipynb file, we have -
 
-• EDA on Bike sharing demand prediction.
+• **EDA on Bike sharing demand prediction**.
 
-• Hypothesis.
+• **Hypothesis**.
 
-• Fitting different models and cross validate them.
+•**Fitting different models and cross validate them**.
 
-Kaggle Dataset
+**Kaggle Dataset**
+
 Downlaod the dataset from kaggle through provided link.Then, connect to the runtime and execute the cell to mount the drive or upload the data file to the current runtime.
 Cell Path
 Finally, delete the path in the dataset loading cell and replace it with the path of your current data file. Run each cell to see the output below it.
